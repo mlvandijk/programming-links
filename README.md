@@ -18,7 +18,11 @@ https://docs.oracle.com/javase/tutorial/java/
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
 ### git
-
+Git documentation:
+https://git-scm.com/doc
+Video:
+http://learngitbranching.js.org/index.html?demo
+https://www.youtube.com/watch?v=1ffBJ4sVUb4
 
 ### funnies
 https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg
