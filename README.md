@@ -6,10 +6,14 @@ http://www.geeksforgeeks.org/
 
 ### practice
 https://www.hackerrank.com/ - contains tutorials, challenges and contests
+
 http://codingbat.com/java - some small problems to solve
+
 https://www.codewars.com/ - katas of varying levels
+
 https://open.kattis.com/ - contains (algorithmic) challenges
 
+https://www.topcoder.com
 
 ### java 
 Useful video tutorials if you want to learn the *basics* of java:
