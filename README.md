@@ -17,14 +17,12 @@ https://open.kattis.com/ - contains (algorithmic) challenges
 https://www.topcoder.com - challenges, tutorials and more
 
 ### java 
-Useful video tutorials if you want to learn the *basics* of java:
-
-https://thenewboston.com/videos.php?cat=31
+Useful video tutorials if you want to learn the *basics* of java: https://thenewboston.com/videos.php?cat=31
 
 
 Official Oracle docs:
-https://docs.oracle.com/javase/8/docs/api/
-https://docs.oracle.com/javase/tutorial/java/
+* https://docs.oracle.com/javase/8/docs/api/
+* https://docs.oracle.com/javase/tutorial/java/
 
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
