@@ -14,7 +14,7 @@ https://www.codewars.com/ - katas of varying levels
 
 https://open.kattis.com/ - contains (algorithmic) challenges
 
-https://www.topcoder.com
+https://www.topcoder.com - challenges, tutorials and more
 
 ### java 
 Useful video tutorials if you want to learn the *basics* of java:
