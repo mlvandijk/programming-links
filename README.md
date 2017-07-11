@@ -3,7 +3,7 @@ Useful links about programming
 (Things I want to save and/or share)
 
 ### general
-http://www.geeksforgeeks.org/
+http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
 ### practice
 https://www.hackerrank.com/ - contains tutorials, challenges and contests
