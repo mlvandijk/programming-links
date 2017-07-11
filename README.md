@@ -34,6 +34,9 @@ Video:
 http://learngitbranching.js.org/index.html?demo
 https://www.youtube.com/watch?v=1ffBJ4sVUb4
 
+### history
+http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
+
 ### funnies
 https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg
 https://www.tamingdata.com/wp-content/uploads/2010/07/tree-swing-project-management-large.png
