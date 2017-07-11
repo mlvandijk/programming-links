@@ -28,6 +28,7 @@ https://docs.oracle.com/javase/tutorial/java/
 
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
+http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
 
 ### git
 Git documentation:
