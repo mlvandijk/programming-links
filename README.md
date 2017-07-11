@@ -1,6 +1,5 @@
 ## programming-links
-Useful links about programming
-(Things I want to save and/or share)
+Things I want to save and/or share
 
 ### general
 http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
