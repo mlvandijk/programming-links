@@ -13,9 +13,19 @@ https://www.codewars.com/ - katas of varying levels
 
 https://open.kattis.com/ - contains (algorithmic) challenges
 
+https://algo.is/ - Lectures and overview of Kattis problems per subject
+
 https://www.topcoder.com - challenges, tutorials and more
 
-https://algo.is/ - Lectures and overview of Kattis problems per subject
+https://projecteuler.net/
+
+http://codeforces.com/gyms
+
+https://www.codechef.com/
+
+https://uva.onlinejudge.org/
+
+
 
 
 ### java 
