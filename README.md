@@ -95,7 +95,10 @@ https://sites.google.com/site/stevenhalim/ - Download v1 of the Competitive Prog
 
 http://play.typeracer.com/ - improve typing speed
 
-###
+### algorithms
+https://visualgo.net/en
+
+http://www.dummies.com/programming/big-data/algorithms-dummies-cheat-sheet/
 
 
 
