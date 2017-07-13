@@ -51,6 +51,10 @@ Official Oracle docs:
 * https://docs.oracle.com/javase/8/docs/api/
 * https://docs.oracle.com/javase/tutorial/java/
 
+OCA/OCP exam & exam prep:
+http://sybextestbanks.wiley.com
+
+
 Slides for the geek girl carrots java meetup:
 
 https://docs.google.com/document/d/1Z8FQsSgPO_kH7T0COB-6jMxiWIfB3B6pvA229COCFzE/edit - tools for workshop 1
