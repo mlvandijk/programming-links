@@ -25,8 +25,11 @@ Official Oracle docs:
 
 Slides for the geek girl carrots java meetup:
 https://docs.google.com/document/d/1Z8FQsSgPO_kH7T0COB-6jMxiWIfB3B6pvA229COCFzE/edit - tools for workshop 1
-http://slides.com/andr33a/javaworkshop2#/
+
+http://slides.com/andr33a/javaworkshop2#/ - language basics
+
 http://slides.com/andr33a/javaworkshop3#/
+
 http://slides.com/andr33a/java-workshop-4#/
 
 OOP vs POP discussion:
