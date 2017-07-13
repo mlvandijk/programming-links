@@ -24,6 +24,7 @@ Official Oracle docs:
 * https://docs.oracle.com/javase/tutorial/java/
 
 Slides for the geek girl carrots java meetup:
+
 https://docs.google.com/document/d/1Z8FQsSgPO_kH7T0COB-6jMxiWIfB3B6pvA229COCFzE/edit - tools for workshop 1
 
 http://slides.com/andr33a/javaworkshop2#/ - language basics
