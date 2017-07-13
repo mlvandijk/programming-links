@@ -4,6 +4,8 @@ Things I want to save and/or share
 ### general
 http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
+http://rosettacode.org/wiki/Rosetta_Code
+
 
 ### practice
 There are many sites where you can practice programming in multiple languages.
@@ -20,6 +22,8 @@ https://algo.is/ - Lectures and overview of Kattis problems per subject
 
 https://www.topcoder.com - challenges, tutorials and more
 
+https://www.topcoder.com/community/data-science/data-science-tutorials/
+
 https://projecteuler.net/
 
 http://codeforces.com/gyms
@@ -28,7 +32,15 @@ https://www.codechef.com/
 
 https://uva.onlinejudge.org/
 
+https://www.codingame.com/start
 
+### clean code
+https://cleancoders.com/videos/clean-code
+
+### tdd
+https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
+
+https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Maven project to run unit tests 
 
 
 ### java 
@@ -56,6 +68,9 @@ http://freefeast.info/general-it-articles/difference-between-procedure-oriented-
 
 http://techdifferences.com/difference-between-oop-and-pop.html
 
+Java beginner meetup: 
+https://www.slideshare.net/PatrickKostjens/java-beginners-meetup-introduction-to-class-and-application-design
+
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
@@ -75,6 +90,10 @@ https://www.youtube.com/watch?v=1ffBJ4sVUb4
 https://sites.google.com/site/stevenhalim/ - Download v1 of the Competitive Programming book for free
 
 http://play.typeracer.com/ - improve typing speed
+
+###
+
+
 
 ### history
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
