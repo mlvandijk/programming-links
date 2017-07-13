@@ -15,6 +15,9 @@ https://open.kattis.com/ - contains (algorithmic) challenges
 
 https://www.topcoder.com - challenges, tutorials and more
 
+https://algo.is/ - Lectures and overview of Kattis problems per subject
+
+
 ### java 
 Useful video tutorials if you want to learn the *basics* of java: https://thenewboston.com/videos.php?cat=31
 
@@ -50,6 +53,13 @@ https://git-scm.com/doc
 Video:
 http://learngitbranching.js.org/index.html?demo
 https://www.youtube.com/watch?v=1ffBJ4sVUb4
+
+
+### competitive programming
+
+https://sites.google.com/site/stevenhalim/ - Download v1 of the Competitive Programming book for free
+
+http://play.typeracer.com/ - improve typing speed
 
 ### history
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
