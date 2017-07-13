@@ -54,5 +54,6 @@ https://www.youtube.com/watch?v=1ffBJ4sVUb4
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
 
 ### funnies
+www.xkcd.com
 https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg
 https://www.tamingdata.com/wp-content/uploads/2010/07/tree-swing-project-management-large.png
