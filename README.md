@@ -83,11 +83,13 @@ http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
 ### git
 Git documentation:
 https://git-scm.com/doc
+
 Video:
 http://learngitbranching.js.org/index.html?demo
 
 https://www.youtube.com/watch?v=1ffBJ4sVUb4
 
+http://ohshitgit.com/
 
 ### competitive programming
 
