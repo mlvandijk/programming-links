@@ -24,6 +24,8 @@ https://www.topcoder.com - challenges, tutorials and more
 
 https://www.topcoder.com/community/data-science/data-science-tutorials/
 
+http://codingdojo.org/ - contains a list of katas and more
+
 https://projecteuler.net/
 
 http://codeforces.com/gyms
@@ -34,9 +36,14 @@ https://uva.onlinejudge.org/
 
 https://www.codingame.com/start
 
+
 ### learn
 
 https://www.sololearn.com/ - contains tutorials on java, html, javascript, python, sql and others
+
+https://www.edx.org/course
+
+https://www.coursera.org/
 
 ### clean code
 https://cleancoders.com/videos/clean-code
@@ -57,6 +64,9 @@ Official Oracle docs:
 
 OCA/OCP exam & exam prep:
 http://sybextestbanks.wiley.com
+
+https://technologyconversations.com/category/java/
+
 
 
 Slides for the geek girl carrots java meetup:
@@ -83,6 +93,8 @@ https://www.slideshare.net/PatrickKostjens/java-beginners-meetup-introduction-to
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
 http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
+
+https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
 
 ### kotlin
 https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
