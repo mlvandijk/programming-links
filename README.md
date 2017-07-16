@@ -34,6 +34,10 @@ https://uva.onlinejudge.org/
 
 https://www.codingame.com/start
 
+### learn
+
+https://www.sololearn.com/ - contains tutorials on java, html, javascript, python, sql and others
+
 ### clean code
 https://cleancoders.com/videos/clean-code
 
@@ -79,6 +83,9 @@ https://www.slideshare.net/PatrickKostjens/java-beginners-meetup-introduction-to
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
 http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
+
+### kotlin
+https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
 
 ### git
 Git documentation:
