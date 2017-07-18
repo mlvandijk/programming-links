@@ -10,31 +10,35 @@ http://rosettacode.org/wiki/Rosetta_Code
 ### practice
 There are many sites where you can practice programming in multiple languages.
 
-https://www.hackerrank.com/ - contains tutorials, challenges and contests
+www.hackerrank.com/ - contains tutorials, challenges and contests
 
-http://codingbat.com/java - some small problems to solve
+www.codingbat.com/java - some small problems to solve
 
-https://www.codewars.com/ - katas of varying levels
+www.codewars.com/ - katas of varying levels
 
-https://open.kattis.com/ - contains (algorithmic) challenges
+open.kattis.com/ - contains (algorithmic) challenges
 
-https://algo.is/ - Lectures and overview of Kattis problems per subject
+algo.is/ - Lectures and overview of Kattis problems per subject
 
-https://www.topcoder.com - challenges, tutorials and more
+www.topcoder.com - challenges, tutorials and more
 
-https://www.topcoder.com/community/data-science/data-science-tutorials/
+www.topcoder.com/community/data-science/data-science-tutorials/
 
-http://codingdojo.org/ - contains a list of katas and more
+www.codingdojo.org/ - contains a list of katas and more
 
-https://projecteuler.net/
+www.kata-log.rocks/ - more katas and different ways to practice
 
-http://codeforces.com/gyms
+www.codefights.com 
 
-https://www.codechef.com/
+www.projecteuler.net/
+
+www.codeforces.com/gyms
+
+www.codechef.com/
 
 https://uva.onlinejudge.org/
 
-https://www.codingame.com/start
+www.codingame.com/start
 
 
 ### learn
