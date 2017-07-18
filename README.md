@@ -16,9 +16,9 @@ www.codingbat.com/java - some small problems to solve
 
 www.codewars.com/ - katas of varying levels
 
-open.kattis.com/ - contains (algorithmic) challenges
+https://open.kattis.com/ - contains (algorithmic) challenges
 
-algo.is/ - Lectures and overview of Kattis problems per subject
+https://algo.is/ - Lectures and overview of Kattis problems per subject
 
 www.topcoder.com - challenges, tutorials and more
 
