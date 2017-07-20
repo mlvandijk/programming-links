@@ -114,6 +114,10 @@ https://www.youtube.com/watch?v=1ffBJ4sVUb4
 
 http://ohshitgit.com/
 
+### programming
+
+https://tylermcginnis.com/imperative-vs-declarative-programming/
+
 ### competitive programming
 
 https://sites.google.com/site/stevenhalim/ - Download v1 of the Competitive Programming book for free
