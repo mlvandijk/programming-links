@@ -71,6 +71,8 @@ http://sybextestbanks.wiley.com
 
 https://technologyconversations.com/category/java/
 
+
+
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
@@ -107,7 +109,7 @@ https://visualgo.net/en
 
 http://www.dummies.com/programming/big-data/algorithms-dummies-cheat-sheet/
 
-
+http://dsp-book.narod.ru/Algorithms.pdf
 
 ### history
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
