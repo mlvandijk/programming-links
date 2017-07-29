@@ -40,6 +40,7 @@ https://uva.onlinejudge.org/
 
 www.codingame.com/start
 
+https://www.javacodegeeks.com/2015/09/advanced-java.html?utm_content=buffer6d0a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer - Advanced java course
 
 ### learn
 
@@ -49,8 +50,11 @@ https://www.edx.org/course
 
 https://www.coursera.org/
 
+
 ### clean code
+
 https://cleancoders.com/videos/clean-code
+
 
 ### tdd
 https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
@@ -61,7 +65,6 @@ https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Mave
 ### java 
 Useful video tutorials if you want to learn the *basics* of java: https://thenewboston.com/videos.php?cat=31
 
-
 Official Oracle docs:
 * https://docs.oracle.com/javase/8/docs/api/
 * https://docs.oracle.com/javase/tutorial/java/
@@ -71,7 +74,7 @@ http://sybextestbanks.wiley.com
 
 https://technologyconversations.com/category/java/
 
-
+https://www.javacodegeeks.com/category/java/core-java/
 
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
