@@ -78,7 +78,8 @@ Official Oracle docs:
 * https://docs.oracle.com/javase/tutorial/java/
 
 OCA/OCP exam & exam prep:
-* http://sybextestbanks.wiley.com
+* http://sybextestbanks.wiley.com (OCA/OCP study guide materials)
+* https://testbanks.wiley.com/WPDACE/Login (OCA/OCP Practice Tests)
 * https://www.selikoff.net/
 
 ### scala
