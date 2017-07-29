@@ -69,18 +69,19 @@ Introduction to Programming Using Java, Seventh Edition: http://math.hws.edu/eck
 
 https://www.javacodegeeks.com/2015/09/advanced-java.html?utm_content=buffer6d0a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer - Advanced java course
 
-Official Oracle docs:
-* https://docs.oracle.com/javase/8/docs/api/
-* https://docs.oracle.com/javase/tutorial/java/
-
-OCA/OCP exam & exam prep:
-http://sybextestbanks.wiley.com
-
 https://technologyconversations.com/category/java/
 
 https://www.javacodegeeks.com/category/java/core-java/
 
 https://www.javacodegeeks.com/tutorials/java-tutorials/core-java-tutorials/
+
+Official Oracle docs:
+* https://docs.oracle.com/javase/8/docs/api/
+* https://docs.oracle.com/javase/tutorial/java/
+
+OCA/OCP exam & exam prep:
+* http://sybextestbanks.wiley.com
+* https://www.selikoff.net/
 
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
