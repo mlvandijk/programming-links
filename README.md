@@ -63,7 +63,12 @@ https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Mave
 
 
 ### java 
-Useful video tutorials if you want to learn the *basics* of java: https://thenewboston.com/videos.php?cat=31
+Some useful video tutorials: 
+https://www.thenewboston.com/videos.php?cat=31 - Java beginners (89 videos of under 10 minutes each)
+https://www.thenewboston.com/videos.php?cat=25 - Java Intermediate (59 videos)
+
+Introduction to Programming Using Java, Seventh Edition: http://math.hws.edu/eck/cs124/javanotes7/ - free, on-line textbook on introductory programming, which uses Java as the language of instruction. Contains explanations, exercises and solutions.
+
 
 Official Oracle docs:
 * https://docs.oracle.com/javase/8/docs/api/
