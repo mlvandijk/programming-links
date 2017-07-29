@@ -76,6 +76,8 @@ https://technologyconversations.com/category/java/
 
 https://www.javacodegeeks.com/category/java/core-java/
 
+https://www.javacodegeeks.com/tutorials/java-tutorials/core-java-tutorials/
+
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
@@ -134,7 +136,7 @@ https://docs.google.com/document/d/1Z8FQsSgPO_kH7T0COB-6jMxiWIfB3B6pvA229COCFzE/
 http://slides.com/andr33a/javaworkshop2#/ - language basics
 
 http://slides.com/andr33a/javaworkshop3#/
-
+                
 http://slides.com/andr33a/java-workshop-4#/
 
 OOP vs POP discussion:
