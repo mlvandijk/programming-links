@@ -40,8 +40,6 @@ https://uva.onlinejudge.org/
 
 www.codingame.com/start
 
-https://www.javacodegeeks.com/2015/09/advanced-java.html?utm_content=buffer6d0a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer - Advanced java course
-
 ### learn
 
 https://www.sololearn.com/ - contains tutorials on java, html, javascript, python, sql and others
@@ -69,6 +67,7 @@ https://www.thenewboston.com/videos.php?cat=25 - Java Intermediate (59 videos)
 
 Introduction to Programming Using Java, Seventh Edition: http://math.hws.edu/eck/cs124/javanotes7/ - free, on-line textbook on introductory programming, which uses Java as the language of instruction. Contains explanations, exercises and solutions.
 
+https://www.javacodegeeks.com/2015/09/advanced-java.html?utm_content=buffer6d0a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer - Advanced java course
 
 Official Oracle docs:
 * https://docs.oracle.com/javase/8/docs/api/
