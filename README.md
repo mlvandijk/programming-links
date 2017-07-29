@@ -60,20 +60,18 @@ https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
 https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Maven project to run unit tests 
 
 
-### java 
-Some useful video tutorials: 
-https://www.thenewboston.com/videos.php?cat=31 - Java beginners (89 videos of under 10 minutes each)
-https://www.thenewboston.com/videos.php?cat=25 - Java Intermediate (59 videos)
+### java
+Getting started:
+* https://www.thenewboston.com/videos.php?cat=31 - Java beginners (89 videos of under 10 minutes each)
+* Introduction to Programming Using Java, Seventh Edition: http://math.hws.edu/eck/cs124/javanotes7/ - free, on-line textbook on introductory programming, which uses Java as the language of instruction. Contains explanations, exercises and solutions.
+* Head First Java (book) 
 
-Introduction to Programming Using Java, Seventh Edition: http://math.hws.edu/eck/cs124/javanotes7/ - free, on-line textbook on introductory programming, which uses Java as the language of instruction. Contains explanations, exercises and solutions.
-
-https://www.javacodegeeks.com/2015/09/advanced-java.html?utm_content=buffer6d0a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer - Advanced java course
-
-https://technologyconversations.com/category/java/
-
-https://www.javacodegeeks.com/category/java/core-java/
-
-https://www.javacodegeeks.com/tutorials/java-tutorials/core-java-tutorials/
+More:
+* https://www.thenewboston.com/videos.php?cat=25 - Java Intermediate (59 videos)
+* https://www.javacodegeeks.com/2015/09/advanced-java.html?utm_content=buffer6d0a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer - Advanced java course
+* https://technologyconversations.com/category/java/
+* https://www.javacodegeeks.com/category/java/core-java/
+* https://www.javacodegeeks.com/tutorials/java-tutorials/core-java-tutorials/
 
 Official Oracle docs:
 * https://docs.oracle.com/javase/8/docs/api/
