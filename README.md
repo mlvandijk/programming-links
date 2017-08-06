@@ -49,9 +49,11 @@ https://www.edx.org/course
 https://www.coursera.org/
 
 
-### clean code
+### clean code & craftsmanship
 
 https://cleancoders.com/videos/clean-code
+
+https://pragprog.com/book/tpp/the-pragmatic-programmer
 
 
 ### tdd
