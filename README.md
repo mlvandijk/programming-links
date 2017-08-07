@@ -84,6 +84,9 @@ OCA/OCP exam & exam prep:
 * https://testbanks.wiley.com/WPDACE/Login (OCA/OCP Practice Tests)
 * https://www.selikoff.net/
 
+Java 9:
+https://blog.knoldus.com/2017/07/26/did-someone-say-java-9/
+
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
@@ -110,6 +113,10 @@ http://ohshitgit.com/
 https://spring.io/guides
 
 https://www.tutorialspoint.com/spring/
+
+### test automation
+
+https://docs.cucumber.io - Cucumber for BDD test automation
 
 ### programming
 
