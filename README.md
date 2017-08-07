@@ -112,6 +112,8 @@ http://ohshitgit.com/
 
 https://spring.io/guides
 
+https://spring.io/guides/gs/rest-service/ - 15 min tutorial to build a simple REST service
+
 https://www.tutorialspoint.com/spring/
 
 ### test automation
