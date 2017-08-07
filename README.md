@@ -8,7 +8,7 @@ http://rosettacode.org/wiki/Rosetta_Code
 
 
 ### practice
-There are many sites where you can practice programming in multiple languages.
+There are many sites where you can practice programming in multiple languages:
 
 www.hackerrank.com/ - contains tutorials, challenges and contests
 
