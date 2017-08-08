@@ -85,6 +85,7 @@ OCA/OCP exam & exam prep:
 * https://www.selikoff.net/
 
 Java 9:
+
 https://blog.knoldus.com/2017/07/26/did-someone-say-java-9/
 
 ### scala
