@@ -127,6 +127,10 @@ https://cucumber.io/ - Current site (Project: https://github.com/cucumber/websit
 
 Project for all new documentation: https://github.com/cucumber/docs.cucumber.io
 
+Slack: https://cucumberbdd.slack.com
+
+Google groups: https://groups.google.com/forum/#!forum/cukes 
+
 https://cucumber.io/blog/2017/08/07/cukeup-london-2017-videos
 
 ### programming
