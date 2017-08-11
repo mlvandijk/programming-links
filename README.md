@@ -127,6 +127,8 @@ https://cucumber.io/ - Current site (Project: https://github.com/cucumber/websit
 
 Project for all new documentation: https://github.com/cucumber/docs.cucumber.io
 
+Cucumber for Java book: https://pragprog.com/book/srjcuc/the-cucumber-for-java-book
+
 Slack: https://cucumberbdd.slack.com
 
 Google groups: https://groups.google.com/forum/#!forum/cukes 
