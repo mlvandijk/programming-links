@@ -131,6 +131,8 @@ Slack: https://cucumberbdd.slack.com
 
 Google groups: https://groups.google.com/forum/#!forum/cukes 
 
+Gitter: https://gitter.im/cucumber/cucumber-jvm
+
 https://cucumber.io/blog/2017/08/07/cukeup-london-2017-videos
 
 ### programming
