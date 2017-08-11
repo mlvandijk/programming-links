@@ -109,6 +109,10 @@ https://www.youtube.com/watch?v=1ffBJ4sVUb4
 
 http://ohshitgit.com/
 
+How to Write a Git Commit Message: https://chris.beams.io/posts/git-commit/
+
+Why squash git commits for pull requests? https://softwareengineering.stackexchange.com/questions/263164/why-squash-git-commits-for-pull-requests
+
 ### spring
 
 https://spring.io/guides
