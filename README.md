@@ -121,6 +121,8 @@ https://spring.io/guides/gs/rest-service/ - 15 min tutorial to build a simple RE
 
 https://www.tutorialspoint.com/spring/
 
+https://bolcom.github.io/java-spring-basics/
+
 ### test automation
 
 #### cucumber
