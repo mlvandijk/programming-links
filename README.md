@@ -143,6 +143,8 @@ Gitter: https://gitter.im/cucumber/cucumber-jvm
 
 https://cucumber.io/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool
 
+http://agileforall.com/just-enough-regular-expressions-for-cucumber/
+
 https://cucumber.io/blog/2017/08/07/cukeup-london-2017-videos
 
 ### programming
