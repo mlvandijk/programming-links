@@ -162,6 +162,10 @@ http://dsp-book.narod.ru/Algorithms.pdf
 
 https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
 
+### blogs
+
+http://www.thinkcode.se/blog
+
 ### history
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
 
