@@ -139,6 +139,8 @@ Google groups: https://groups.google.com/forum/#!forum/cukes
 
 Gitter: https://gitter.im/cucumber/cucumber-jvm
 
+https://cucumber.io/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool
+
 https://cucumber.io/blog/2017/08/07/cukeup-london-2017-videos
 
 ### programming
