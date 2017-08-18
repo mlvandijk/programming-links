@@ -113,6 +113,8 @@ How to Write a Git Commit Message: https://chris.beams.io/posts/git-commit/
 
 Why squash git commits for pull requests? https://softwareengineering.stackexchange.com/questions/263164/why-squash-git-commits-for-pull-requests
 
+http://rogerdudler.github.io/git-guide/ - basic guide
+
 ### spring
 
 https://spring.io/guides
