@@ -115,6 +115,16 @@ Why squash git commits for pull requests? https://softwareengineering.stackexcha
 
 http://rogerdudler.github.io/git-guide/ - basic guide
 
+Tips from CodeSchool Git Real course:
+
+http://gitimmersion.com/
+
+http://gitready.com/
+
+http://www.ndpsoftware.com/git-cheatsheet.html
+
+https://jwiegley.github.io/git-from-the-bottom-up/
+
 ### spring
 
 https://spring.io/guides
