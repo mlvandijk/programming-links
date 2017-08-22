@@ -185,6 +185,10 @@ http://www.thinkcode.se/blog
 ### history
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
 
+https://timeline.com/women-pioneered-computer-programming-then-men-took-their-industry-over-c2959b822523
+
+https://www.vox.com/2015/5/30/8689481/margaret-hamilton-apollo-software
+
 ### funnies
 www.xkcd.com
 
