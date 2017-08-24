@@ -135,6 +135,9 @@ https://www.tutorialspoint.com/spring/
 
 https://bolcom.github.io/java-spring-basics/
 
+### front endy things
+https://www.w3schools.com/cssref/css3_pr_word-break.asp
+
 ### test automation
 
 #### cucumber
