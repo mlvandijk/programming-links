@@ -201,6 +201,8 @@ https://www.tamingdata.com/wp-content/uploads/2010/07/tree-swing-project-managem
 
 https://twitter.com/CommitStrip/status/885513901177098241/photo/1
 
+https://twitter.com/phabricator/status/902202891280232448
+
 # other
 Slides for the geek girl carrots java meetup:
 
