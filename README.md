@@ -208,6 +208,10 @@ https://twitter.com/CommitStrip/status/885513901177098241/photo/1
 
 https://twitter.com/phabricator/status/902202891280232448
 
+http://pauperhosting.nl/
+
+http://uniquebits.nl/
+
 # other
 Slides for the geek girl carrots java meetup:
 
