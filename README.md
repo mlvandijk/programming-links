@@ -204,6 +204,8 @@ www.xkcd.com
 
 https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg
 
+https://9gag.com/gag/anXEbe0/if-programming-languages-were-weapons?fref=gc&dti=1420472394666043
+
 https://www.tamingdata.com/wp-content/uploads/2010/07/tree-swing-project-management-large.png
 
 https://twitter.com/CommitStrip/status/885513901177098241/photo/1
