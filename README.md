@@ -89,6 +89,10 @@ Java 9:
 
 https://blog.knoldus.com/2017/07/26/did-someone-say-java-9/
 
+Various: 
+
+https://dzone.com/articles/optional-method-parameters
+
 ### scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
