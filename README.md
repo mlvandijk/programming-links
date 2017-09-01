@@ -55,6 +55,7 @@ https://cleancoders.com/videos/clean-code
 
 https://pragprog.com/book/tpp/the-pragmatic-programmer
 
+https://blog.jetbrains.com/idea/2017/08/code-smells-mutation/
 
 ### tdd
 https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
