@@ -159,7 +159,9 @@ Slack: https://cucumberbdd.slack.com
 
 Google groups: https://groups.google.com/forum/#!forum/cukes 
 
-Gitter: https://gitter.im/cucumber/cucumber-jvm
+Gitter (help): https://gitter.im/cucumber/help
+
+Gitter (cucumber-jvm): https://gitter.im/cucumber/cucumber-jvm
 
 https://cucumber.io/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool
 
