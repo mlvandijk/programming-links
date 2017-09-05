@@ -169,6 +169,8 @@ http://agileforall.com/just-enough-regular-expressions-for-cucumber/
 
 https://cucumber.io/blog/2017/08/07/cukeup-london-2017-videos
 
+http://agileforall.com/wp-content/uploads/2011/08/Cucumber-Regular-Expressions-Cheat-Sheet.pdf
+
 ### programming
 
 https://tylermcginnis.com/imperative-vs-declarative-programming/
