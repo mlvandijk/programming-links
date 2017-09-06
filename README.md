@@ -62,6 +62,18 @@ https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
 
 https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Maven project to run unit tests 
 
+### mob programming
+https://www.slideshare.net/llewellynfalco/mob-programming-75601033
+
+http://llewellynfalco.blogspot.nl/search?q=mob+programming
+
+https://www.stitcher.com/podcast/cucumber-podcast/cucumber/e/43836087
+
+https://leanpub.com/mobprogramming/read_sample
+
+https://www.youtube.com/watch?v=dVqUcNKVbYg
+
+https://www.youtube.com/watch?v=h7NU06Ef4zQ
 
 ### java
 Getting started:
@@ -191,6 +203,8 @@ http://www.dummies.com/programming/big-data/algorithms-dummies-cheat-sheet/
 http://dsp-book.narod.ru/Algorithms.pdf
 
 https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
+
+
 
 ### blogs
 
