@@ -206,11 +206,18 @@ http://dsp-book.narod.ru/Algorithms.pdf
 
 https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
 
-
-
 ### blogs
-
 http://www.thinkcode.se/blog
+
+### conferences
+Codemotion Amsterdam 2017: https://www.youtube.com/playlist?list=PLq2-o3pBTowfqY4DCsGQ4U-o3aXanFgWX
+
+GOTO Amsterdam 2017: https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS
+
+JoyOfCoding 2017: https://www.youtube.com/watch?v=an15s-6Q6rE 
+
+NLJUG: https://www.youtube.com/channel/UCZKSQ4GtkKD1Wb6Ti53febQ/videos
+
 
 ### history
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
