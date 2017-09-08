@@ -158,6 +158,15 @@ https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
 ### test automation
 
+#### unit tests / code coverage
+https://dev.to/danlebrero/the-tragedy-of-100-code-coverage
+
+http://danlebrero.com/2016/11/06/good-test-vs-bad-tests/
+
+http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/
+
+https://stackoverflow.com/questions/90002/what-is-a-reasonable-code-coverage-for-unit-tests-and-why/90021#90021
+
 #### cucumber
 
 https://docs.cucumber.io - Cucumber for BDD test automation
