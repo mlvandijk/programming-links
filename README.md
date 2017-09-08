@@ -6,7 +6,6 @@ http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
 http://rosettacode.org/wiki/Rosetta_Code
 
-
 ### practice
 There are many sites where you can practice programming in multiple languages:
 
@@ -215,6 +214,12 @@ Codemotion Amsterdam 2017: https://www.youtube.com/playlist?list=PLq2-o3pBTowfqY
 GOTO Amsterdam 2017: https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS
 
 JoyOfCoding 2017: https://www.youtube.com/watch?v=an15s-6Q6rE 
+
+Joy of Coding 2015: https://www.infoq.com/joy-of-coding-2015
+
+Joy of Coding 2014: https://www.infoq.com/joy-of-coding-2014
+
+Joy of Coding 2013: https://www.infoq.com/joy-of-coding-2013
 
 NLJUG: https://www.youtube.com/channel/UCZKSQ4GtkKD1Wb6Ti53febQ/videos
 
