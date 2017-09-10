@@ -217,9 +217,13 @@ https://www.topcoder.com/community/data-science/data-science-tutorials/introduct
 ### blogs
 http://www.thinkcode.se/blog
 
+https://blog.jetbrains.com/idea/
+
 https://www.joelonsoftware.com/
 
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
+http://llewellynfalco.blogspot.nl/
 
 ### conferences
 Codemotion Amsterdam 2017: https://www.youtube.com/playlist?list=PLq2-o3pBTowfqY4DCsGQ4U-o3aXanFgWX
