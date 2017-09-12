@@ -62,6 +62,10 @@ https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
 https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Maven project to run unit tests 
 
 ### mob programming
+https://www.agileconnection.com/article/getting-started-mob-programming
+
+https://tobeagile.com/2017/01/11/strong-style-pairing/
+
 https://www.slideshare.net/llewellynfalco/mob-programming-75601033
 
 http://llewellynfalco.blogspot.nl/search?q=mob+programming
