@@ -173,6 +173,9 @@ http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-bene
 
 https://stackoverflow.com/questions/90002/what-is-a-reasonable-code-coverage-for-unit-tests-and-why/90021#90021
 
+#### mocking
+http://www.baeldung.com/jmockit-101
+
 #### cucumber
 
 https://docs.cucumber.io - Cucumber for BDD test automation
