@@ -164,6 +164,8 @@ https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
 ### test automation
 
+Mutation testing: http://pitest.org/
+
 #### unit tests / code coverage
 https://dev.to/danlebrero/the-tragedy-of-100-code-coverage
 
