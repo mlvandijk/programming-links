@@ -166,7 +166,10 @@ https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
 Mutation testing: http://pitest.org/
 
-#### unit tests / code coverage
+#### unit tests 
+http://xunitpatterns.com/
+
+#### code coverage
 https://dev.to/danlebrero/the-tragedy-of-100-code-coverage
 
 http://danlebrero.com/2016/11/06/good-test-vs-bad-tests/
@@ -205,6 +208,8 @@ https://cucumber.io/blog/2017/08/07/cukeup-london-2017-videos
 http://agileforall.com/just-enough-regular-expressions-for-cucumber/
 
 http://agileforall.com/wp-content/uploads/2011/08/Cucumber-Regular-Expressions-Cheat-Sheet.pdf
+
+http://www.thinkcode.se/blog/2016/06/22/cucumber-antipatterns
 
 ### programming
 
@@ -251,6 +256,7 @@ Joy of Coding 2013: https://www.infoq.com/joy-of-coding-2013
 
 NLJUG: https://www.youtube.com/channel/UCZKSQ4GtkKD1Wb6Ti53febQ/videos
 
+https://www.youtube.com/watch?v=uQ75fI1tqoM Venkat Subramaniam, includes interesting perspctive on testing.
 
 ### history
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
