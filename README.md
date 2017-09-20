@@ -162,6 +162,9 @@ https://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.htm
 ### front endy things
 https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
+### testing
+http://rcpaterson.co.uk/blog/test/dont-shift-left-expand-outwards-and-accelerate-failure/
+
 ### test automation
 
 Mutation testing: http://pitest.org/
