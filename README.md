@@ -39,6 +39,8 @@ https://uva.onlinejudge.org/
 
 www.codingame.com/start
 
+http://jamesowers.co.uk/2016/03/07/code-katas.html
+
 ### learn
 
 https://www.sololearn.com/ - contains tutorials on java, html, javascript, python, sql and others
