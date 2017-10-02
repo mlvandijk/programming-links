@@ -277,6 +277,8 @@ https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-
 
 https://9gag.com/gag/anXEbe0/if-programming-languages-were-weapons?fref=gc&dti=1420472394666043
 
+A QA walks into a bar: https://www.sempf.net/post/On-Testing1 
+
 https://www.tamingdata.com/wp-content/uploads/2010/07/tree-swing-project-management-large.png
 
 https://twitter.com/CommitStrip/status/885513901177098241/photo/1
