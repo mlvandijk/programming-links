@@ -122,6 +122,8 @@ https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
 ### kotlin
 https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
 
+https://blog.philipphauer.de/idiomatic-kotlin-best-practices/
+
 ### git
 Git documentation:
 https://git-scm.com/doc
