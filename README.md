@@ -23,10 +23,6 @@ www.topcoder.com - challenges, tutorials and more
 
 www.topcoder.com/community/data-science/data-science-tutorials/
 
-www.codingdojo.org/ - contains a list of katas and more
-
-www.kata-log.rocks/ - more katas and different ways to practice
-
 www.codefights.com 
 
 www.projecteuler.net/
@@ -38,6 +34,12 @@ www.codechef.com/
 https://uva.onlinejudge.org/
 
 www.codingame.com/start
+
+https://codility.com/programmers/
+
+www.codingdojo.org/ - contains a list of katas and more
+
+www.kata-log.rocks/ - more katas and different ways to practice
 
 http://jamesowers.co.uk/2016/03/07/code-katas.html
 
