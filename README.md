@@ -172,6 +172,8 @@ https://www.w3schools.com/cssref/css3_pr_word-break.asp
 http://rcpaterson.co.uk/blog/test/dont-shift-left-expand-outwards-and-accelerate-failure/
 
 ### test automation
+http://www.benrady.com/2016/11/testing-with-fire.html
+
 
 Mutation testing: http://pitest.org/
 
