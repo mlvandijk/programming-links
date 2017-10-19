@@ -192,6 +192,8 @@ https://stackoverflow.com/questions/90002/what-is-a-reasonable-code-coverage-for
 #### mocking
 http://www.baeldung.com/jmockit-101
 
+https://martinfowler.com/articles/mocksArentStubs.html
+
 #### cucumber
 
 https://docs.cucumber.io - Cucumber for BDD test automation
