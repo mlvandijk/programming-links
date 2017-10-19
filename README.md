@@ -51,7 +51,6 @@ https://www.edx.org/course
 
 https://www.coursera.org/
 
-
 ### clean code & craftsmanship
 
 https://cleancoders.com/videos/clean-code
@@ -59,6 +58,8 @@ https://cleancoders.com/videos/clean-code
 https://pragprog.com/book/tpp/the-pragmatic-programmer
 
 https://blog.jetbrains.com/idea/2017/08/code-smells-mutation/
+
+https://martinfowler.com/bliki/CodeSmell.html
 
 ### tdd
 https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
@@ -83,6 +84,16 @@ https://www.youtube.com/watch?v=dVqUcNKVbYg
 https://www.youtube.com/watch?v=h7NU06Ef4zQ
 
 https://www.youtube.com/watch?v=8cy64qkgTyI
+
+### Design patterns
+
+http://wiki.c2.com/?DesignPatternsBook
+
+#### Ports and Adapters / Hexagonal architecture
+
+https://spin.atomicobject.com/2013/02/23/ports-adapters-software-architecture/
+
+http://alistair.cockburn.us/Hexagonal+architecture
 
 ### java
 Getting started:
