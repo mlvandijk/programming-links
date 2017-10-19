@@ -271,7 +271,7 @@ Joy of Coding 2013: https://www.infoq.com/joy-of-coding-2013
 
 NLJUG: https://www.youtube.com/channel/UCZKSQ4GtkKD1Wb6Ti53febQ/videos
 
-https://www.youtube.com/watch?v=uQ75fI1tqoM Venkat Subramaniam, includes interesting perspctive on testing.
+https://www.youtube.com/watch?v=uQ75fI1tqoM Venkat Subramaniam, includes interesting perspective on testing.
 
 ### history
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
