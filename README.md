@@ -1,12 +1,12 @@
 ## programming-links
 Things I want to save and/or share
 
-### general
+### General
 http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
 http://rosettacode.org/wiki/Rosetta_Code
 
-### practice
+### Practice
 There are many sites where you can practice programming in multiple languages:
 
 www.hackerrank.com/ - contains tutorials, challenges and contests
@@ -43,7 +43,7 @@ www.kata-log.rocks/ - more katas and different ways to practice
 
 http://jamesowers.co.uk/2016/03/07/code-katas.html
 
-### learn
+### Learn
 
 https://www.sololearn.com/ - contains tutorials on java, html, javascript, python, sql and others
 
@@ -51,7 +51,7 @@ https://www.edx.org/course
 
 https://www.coursera.org/
 
-### clean code & craftsmanship
+### Clean code & craftsmanship
 
 https://cleancoders.com/videos/clean-code
 
@@ -61,12 +61,12 @@ https://blog.jetbrains.com/idea/2017/08/code-smells-mutation/
 
 https://martinfowler.com/bliki/CodeSmell.html
 
-### tdd
+### TDD
 https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
 
 https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Maven project to run unit tests 
 
-### mob programming
+### Mob programming
 https://www.agileconnection.com/article/getting-started-mob-programming
 
 https://tobeagile.com/2017/01/11/strong-style-pairing/
@@ -95,7 +95,7 @@ https://spin.atomicobject.com/2013/02/23/ports-adapters-software-architecture/
 
 http://alistair.cockburn.us/Hexagonal+architecture
 
-### java
+### Java
 Getting started:
 * https://www.thenewboston.com/videos.php?cat=31 - Java beginners (89 videos of under 10 minutes each)
 * Introduction to Programming Using Java, Seventh Edition: http://math.hws.edu/eck/cs124/javanotes7/ - free, on-line textbook on introductory programming, which uses Java as the language of instruction. Contains explanations, exercises and solutions.
@@ -125,19 +125,19 @@ Various:
 
 https://dzone.com/articles/optional-method-parameters
 
-### scala
+### Scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
 http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
 
 https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
 
-### kotlin
+### Kotlin
 https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
 
 https://blog.philipphauer.de/idiomatic-kotlin-best-practices/
 
-### git
+### Git
 Git documentation:
 https://git-scm.com/doc
 
@@ -164,7 +164,7 @@ http://www.ndpsoftware.com/git-cheatsheet.html
 
 https://jwiegley.github.io/git-from-the-bottom-up/
 
-### spring
+### Spring
 
 https://spring.io/guides
 
@@ -176,22 +176,20 @@ https://bolcom.github.io/java-spring-basics/
 
 https://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html
 
-### front endy things
+### Front end
 https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
-### testing
+### Testing & Test Automation
 http://rcpaterson.co.uk/blog/test/dont-shift-left-expand-outwards-and-accelerate-failure/
 
-### test automation
 http://www.benrady.com/2016/11/testing-with-fire.html
-
 
 Mutation testing: http://pitest.org/
 
-#### unit tests 
+#### Unit tests 
 http://xunitpatterns.com/
 
-#### code coverage
+#### Code coverage
 https://dev.to/danlebrero/the-tragedy-of-100-code-coverage
 
 http://danlebrero.com/2016/11/06/good-test-vs-bad-tests/
@@ -200,12 +198,12 @@ http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-bene
 
 https://stackoverflow.com/questions/90002/what-is-a-reasonable-code-coverage-for-unit-tests-and-why/90021#90021
 
-#### mocking
+#### Mocking
 http://www.baeldung.com/jmockit-101
 
 https://martinfowler.com/articles/mocksArentStubs.html
 
-#### cucumber
+#### Cucumber
 
 https://docs.cucumber.io - Cucumber for BDD test automation
 
@@ -239,17 +237,11 @@ http://www.thinkcode.se/blog/2016/06/22/cucumber-antipatterns
 
 How to create a Minimal, Complete, and Verifiable example: https://stackoverflow.com/help/mcve
 
-### programming
+### Programming
 
 https://tylermcginnis.com/imperative-vs-declarative-programming/
 
-### competitive programming
-
-https://sites.google.com/site/stevenhalim/ - Download v1 of the Competitive Programming book for free
-
-http://play.typeracer.com/ - improve typing speed
-
-### algorithms
+### Algorithms & Competitive Programming
 https://visualgo.net/en
 
 http://www.dummies.com/programming/big-data/algorithms-dummies-cheat-sheet/
@@ -258,7 +250,11 @@ http://dsp-book.narod.ru/Algorithms.pdf
 
 https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
 
-### blogs
+https://sites.google.com/site/stevenhalim/ - Download v1 of the Competitive Programming book for free
+
+http://play.typeracer.com/ - improve typing speed
+
+### Blogs
 http://www.thinkcode.se/blog
 
 https://blog.jetbrains.com/idea/
@@ -269,7 +265,7 @@ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-de
 
 http://llewellynfalco.blogspot.nl/
 
-### conferences
+### Conferences
 Codemotion Amsterdam 2017: https://www.youtube.com/playlist?list=PLq2-o3pBTowfqY4DCsGQ4U-o3aXanFgWX
 
 GOTO Amsterdam 2017: https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS
@@ -286,14 +282,14 @@ NLJUG: https://www.youtube.com/channel/UCZKSQ4GtkKD1Wb6Ti53febQ/videos
 
 https://www.youtube.com/watch?v=uQ75fI1tqoM Venkat Subramaniam, includes interesting perspective on testing.
 
-### history
+### History
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
 
 https://timeline.com/women-pioneered-computer-programming-then-men-took-their-industry-over-c2959b822523
 
 https://www.vox.com/2015/5/30/8689481/margaret-hamilton-apollo-software
 
-### funnies
+### Funnies
 www.xkcd.com
 
 https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg
@@ -312,7 +308,7 @@ http://pauperhosting.nl/
 
 http://uniquebits.nl/
 
-# other
+# Other
 Slides for the geek girl carrots java meetup:
 
 https://docs.google.com/document/d/1Z8FQsSgPO_kH7T0COB-6jMxiWIfB3B6pvA229COCFzE/edit - tools for workshop 1
