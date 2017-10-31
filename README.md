@@ -125,17 +125,19 @@ Various:
 
 https://dzone.com/articles/optional-method-parameters
 
+### Kotlin
+https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
+
+https://kotlinlang.org/
+
+https://blog.philipphauer.de/idiomatic-kotlin-best-practices/
+
 ### Scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
 http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
 
 https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
-
-### Kotlin
-https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
-
-https://blog.philipphauer.de/idiomatic-kotlin-best-practices/
 
 ### Git
 Git documentation:
