@@ -205,6 +205,14 @@ http://www.baeldung.com/jmockit-101
 
 https://martinfowler.com/articles/mocksArentStubs.html
 
+http://www.martinfowler.com/bliki/TestDouble.html
+
+[Mockito](site.mockito.org/)
+
+[MockServer](http://www.mock-server.com/)
+
+[WireMock](http://wiremock.org/)
+
 #### Cucumber
 
 https://docs.cucumber.io - Cucumber for BDD test automation
