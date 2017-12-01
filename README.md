@@ -43,13 +43,13 @@ www.kata-log.rocks/ - more katas and different ways to practice
 
 http://jamesowers.co.uk/2016/03/07/code-katas.html
 
-### Learn
+### Open source
 
-https://www.sololearn.com/ - contains tutorials on java, html, javascript, python, sql and others
+Get started with Open Source:
 
-https://www.edx.org/course
+https://www.codetriage.com/
 
-https://www.coursera.org/
+http://up-for-grabs.net/#/
 
 ### Clean code & craftsmanship
 
