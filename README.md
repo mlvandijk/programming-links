@@ -47,6 +47,8 @@ http://jamesowers.co.uk/2016/03/07/code-katas.html
 
 Get started with Open Source:
 
+https://github.com/collections/choosing-projects
+
 https://www.codetriage.com/
 
 http://up-for-grabs.net/#/
