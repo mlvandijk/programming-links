@@ -43,6 +43,12 @@ www.kata-log.rocks/ - more katas and different ways to practice
 
 http://jamesowers.co.uk/2016/03/07/code-katas.html
 
+### Reading code
+
+[Tips for reading code](http://wiki.c2.com/?TipsForReadingCode)
+
+https://www.skorks.com/2010/05/why-i-love-reading-other-peoples-code-and-you-should-too/
+
 ### Open source
 
 Get started with Open Source:
