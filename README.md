@@ -4,7 +4,7 @@ Things I want to save and/or share
 ### General
 http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
-http://rosettacode.org/wiki/Rosetta_Code
+http://rosettacode.org/wiki/Rosetta_Cod
 
 ### Practice
 There are many sites where you can practice programming in multiple languages:
@@ -102,6 +102,10 @@ http://wiki.c2.com/?DesignPatternsBook
 https://spin.atomicobject.com/2013/02/23/ports-adapters-software-architecture/
 
 http://alistair.cockburn.us/Hexagonal+architecture
+
+### Refactoring
+
+https://refactoring.guru/
 
 ### Java
 Getting started:
