@@ -304,6 +304,12 @@ NLJUG: https://www.youtube.com/channel/UCZKSQ4GtkKD1Wb6Ti53febQ/videos
 
 https://www.youtube.com/watch?v=uQ75fI1tqoM Venkat Subramaniam, includes interesting perspective on testing.
 
+### Speaking / CFP
+
+http://speaking-easy.com/
+
+http://www.uploads.pnsqc.org/conference/documents/PNSQC_How_to_Write_an_Abstract.pdf
+
 ### History
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
 
