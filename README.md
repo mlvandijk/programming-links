@@ -292,6 +292,8 @@ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-de
 
 http://llewellynfalco.blogspot.nl/
 
+[Ministry of Testing - blog feed](https://www.ministryoftesting.com/testing-feeds/)
+
 ### Conferences
 Codemotion Amsterdam 2017: https://www.youtube.com/playlist?list=PLq2-o3pBTowfqY4DCsGQ4U-o3aXanFgWX
 
