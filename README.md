@@ -203,6 +203,9 @@ Mutation testing: http://pitest.org/
 #### Unit tests 
 http://xunitpatterns.com/
 
+#### Spock
+https://objectpartners.com/2014/04/08/spock-mock-cheatsheet/
+
 #### Code coverage
 https://dev.to/danlebrero/the-tragedy-of-100-code-coverage
 
