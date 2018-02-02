@@ -228,6 +228,8 @@ http://www.martinfowler.com/bliki/TestDouble.html
 
 [WireMock](http://wiremock.org/)
 
+http://hadihariri.com/2016/10/04/Mocking-Kotlin-With-Mockito/
+
 #### Cucumber
 
 https://docs.cucumber.io - Cucumber for BDD test automation
