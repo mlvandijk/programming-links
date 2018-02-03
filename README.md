@@ -200,6 +200,8 @@ http://www.benrady.com/2016/11/testing-with-fire.html
 
 Mutation testing: http://pitest.org/
 
+[Minitry of Testing - practice sites](https://dojo.ministryoftesting.com/lessons/websites-to-practice-testing) - Need to sign in.
+
 #### Unit tests 
 http://xunitpatterns.com/
 
