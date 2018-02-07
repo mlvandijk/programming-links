@@ -151,6 +151,10 @@ http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
 
 https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
 
+### Go
+
+https://blog.golang.org/examples
+
 ### Git
 Git documentation:
 https://git-scm.com/doc
