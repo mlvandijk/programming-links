@@ -266,7 +266,7 @@ http://agileforall.com/wp-content/uploads/2011/08/Cucumber-Regular-Expressions-C
 
 http://www.thinkcode.se/blog/2016/06/22/cucumber-antipatterns
 
-### reproduce issues
+### Reproduce issues
 
 How to create a Minimal, Complete, and Verifiable example: https://stackoverflow.com/help/mcve
 
@@ -348,6 +348,10 @@ https://twitter.com/phabricator/status/902202891280232448
 http://pauperhosting.nl/
 
 http://uniquebits.nl/
+
+http://yetanotherico.com/
+
+https://github.com/kelseyhightower/nocode
 
 # Other
 Slides for the geek girl carrots java meetup:
