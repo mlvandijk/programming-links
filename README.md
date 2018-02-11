@@ -305,6 +305,8 @@ http://llewellynfalco.blogspot.nl/
 
 [Ministry of Testing - blog feed](https://www.ministryoftesting.com/testing-feeds/)
 
+http://visible-quality.blogspot.nl
+
 ### Conferences
 Codemotion Amsterdam 2017: https://www.youtube.com/playlist?list=PLq2-o3pBTowfqY4DCsGQ4U-o3aXanFgWX
 
