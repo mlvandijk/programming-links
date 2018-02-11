@@ -145,6 +145,8 @@ https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c00
 
 https://kotlinlang.org/
 
+https://www.kotlin.nl/
+
 https://blog.philipphauer.de/idiomatic-kotlin-best-practices/
 
 ### Scala
