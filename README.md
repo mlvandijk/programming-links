@@ -251,6 +251,10 @@ Project for all new documentation: https://github.com/cucumber/docs.cucumber.io
 
 Cucumber for Java book: https://pragprog.com/book/srjcuc/the-cucumber-for-java-book
 
+Source code: https://pragprog.com/titles/srjcuc/source_code
+
+Forum: https://forums.pragprog.com/forums/330
+
 Slack: https://cucumberbdd.slack.com
 
 Google groups: https://groups.google.com/forum/#!forum/cukes 
