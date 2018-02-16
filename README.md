@@ -295,11 +295,13 @@ http://dsp-book.narod.ru/Algorithms.pdf
 
 https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
 
+http://rosettacode.org/wiki/Rosetta_Cod
+
+https://idea-instructions.com/
+
 https://sites.google.com/site/stevenhalim/ - Download v1 of the Competitive Programming book for free
 
 http://play.typeracer.com/ - improve typing speed
-
-http://rosettacode.org/wiki/Rosetta_Cod
 
 ### Blogs
 http://www.thinkcode.se/blog
