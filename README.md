@@ -1,13 +1,10 @@
 ## programming-links
 Things I want to save and/or share
 
-### Where does this go?
-https://www.destroyallsoftware.com/screencasts/catalog
-
 ### General
 http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
-http://rosettacode.org/wiki/Rosetta_Cod
+https://www.destroyallsoftware.com/screencasts/catalog
 
 ### Practice
 There are many sites where you can practice programming in multiple languages:
@@ -161,11 +158,9 @@ https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
 https://blog.golang.org/examples
 
 ### Git
-Git documentation:
-https://git-scm.com/doc
+Git documentation: https://git-scm.com/doc
 
-Video:
-http://learngitbranching.js.org/index.html?demo
+Video: http://learngitbranching.js.org/index.html?demo
 
 https://www.youtube.com/watch?v=1ffBJ4sVUb4
 
@@ -219,9 +214,11 @@ https://bugmagnet.org/
 http://xunitpatterns.com/
 
 #### Spock
+
 https://objectpartners.com/2014/04/08/spock-mock-cheatsheet/
 
 #### Code coverage
+
 https://dev.to/danlebrero/the-tragedy-of-100-code-coverage
 
 http://danlebrero.com/2016/11/06/good-test-vs-bad-tests/
@@ -231,6 +228,7 @@ http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-bene
 https://stackoverflow.com/questions/90002/what-is-a-reasonable-code-coverage-for-unit-tests-and-why/90021#90021
 
 #### Mocking
+
 http://www.baeldung.com/jmockit-101
 
 https://martinfowler.com/articles/mocksArentStubs.html
@@ -288,6 +286,7 @@ How to create a Minimal, Complete, and Verifiable example: https://stackoverflow
 https://tylermcginnis.com/imperative-vs-declarative-programming/
 
 ### Algorithms & Competitive Programming
+
 https://visualgo.net/en
 
 http://www.dummies.com/programming/big-data/algorithms-dummies-cheat-sheet/
@@ -299,6 +298,8 @@ https://www.topcoder.com/community/data-science/data-science-tutorials/introduct
 https://sites.google.com/site/stevenhalim/ - Download v1 of the Competitive Programming book for free
 
 http://play.typeracer.com/ - improve typing speed
+
+http://rosettacode.org/wiki/Rosetta_Cod
 
 ### Blogs
 http://www.thinkcode.se/blog
@@ -316,6 +317,7 @@ http://llewellynfalco.blogspot.nl/
 http://visible-quality.blogspot.nl
 
 ### Conferences
+
 Codemotion Amsterdam 2017: https://www.youtube.com/playlist?list=PLq2-o3pBTowfqY4DCsGQ4U-o3aXanFgWX
 
 GOTO Amsterdam 2017: https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS
@@ -339,6 +341,7 @@ http://speaking-easy.com/
 http://www.uploads.pnsqc.org/conference/documents/PNSQC_How_to_Write_an_Abstract.pdf
 
 ### History
+
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
 
 https://timeline.com/women-pioneered-computer-programming-then-men-took-their-industry-over-c2959b822523
@@ -346,6 +349,7 @@ https://timeline.com/women-pioneered-computer-programming-then-men-took-their-in
 https://www.vox.com/2015/5/30/8689481/margaret-hamilton-apollo-software
 
 ### Funnies
+
 www.xkcd.com
 
 https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg
