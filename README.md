@@ -200,9 +200,11 @@ https://bolcom.github.io/java-spring-basics/
 https://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html
 
 ### Front end
+
 https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
 ### Testing & Test Automation
+
 http://rcpaterson.co.uk/blog/test/dont-shift-left-expand-outwards-and-accelerate-failure/
 
 http://www.benrady.com/2016/11/testing-with-fire.html
@@ -210,6 +212,8 @@ http://www.benrady.com/2016/11/testing-with-fire.html
 Mutation testing: http://pitest.org/
 
 [Minitry of Testing - practice sites](https://dojo.ministryoftesting.com/lessons/websites-to-practice-testing) - Need to sign in.
+
+https://bugmagnet.org/
 
 #### Unit tests 
 http://xunitpatterns.com/
