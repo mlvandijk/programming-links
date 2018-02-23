@@ -49,6 +49,10 @@ http://jamesowers.co.uk/2016/03/07/code-katas.html
 
 https://www.skorks.com/2010/05/why-i-love-reading-other-peoples-code-and-you-should-too/
 
+https://medium.com/bits-and-behavior/teaching-a-strategy-for-reading-code-fbc9f4044cab
+
+https://stackoverflow.com/questions/1307790/how-to-improve-your-reading-and-understanding-of-code/1307819#1307819
+
 ### Open source
 
 Get started with Open Source:
