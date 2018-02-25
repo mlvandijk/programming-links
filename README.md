@@ -53,6 +53,10 @@ https://medium.com/bits-and-behavior/teaching-a-strategy-for-reading-code-fbc9f4
 
 https://stackoverflow.com/questions/1307790/how-to-improve-your-reading-and-understanding-of-code/1307819#1307819
 
+### Mindmap
+
+https://www.mindmup.com/
+
 ### Open source
 
 Get started with Open Source:
