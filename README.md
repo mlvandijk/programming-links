@@ -350,6 +350,8 @@ http://speaking-easy.com/
 
 http://www.uploads.pnsqc.org/conference/documents/PNSQC_How_to_Write_an_Abstract.pdf
 
+[Carbon](https://carbon.now.sh) - to add pretty code to your presentation
+
 ### History
 
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
