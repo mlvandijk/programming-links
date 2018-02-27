@@ -350,6 +350,8 @@ http://speaking-easy.com/
 
 http://www.uploads.pnsqc.org/conference/documents/PNSQC_How_to_Write_an_Abstract.pdf
 
+https://www.linkedin.com/pulse/getting-started-public-speaking-kristine-howard/
+
 [Carbon](https://carbon.now.sh) - to add pretty code to your presentation
 
 ### History
