@@ -218,6 +218,10 @@ Mutation testing: http://pitest.org/
 
 https://bugmagnet.org/
 
+[How do you decide what to automate?](http://katrinatester.blogspot.nl/2018/02/how-do-you-decide-what-to-automate.html) by [Katrina Clokie](http://katrinatester.blogspot.nl/)
+
+[When Should a Test Be Automated?](https://www.oio.de/public/softwaretest/When-Should-A-Test-Be-Automated.pdf) by Brian Marick
+
 #### Unit tests 
 http://xunitpatterns.com/
 
