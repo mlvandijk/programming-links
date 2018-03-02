@@ -390,6 +390,10 @@ http://yetanotherico.com/
 
 https://github.com/kelseyhightower/nocode
 
+https://saijogeorge.com/css-puns/wife/
+
+https://dayssincelastjavascriptframework.com/
+
 # Other
 Slides for the geek girl carrots java meetup:
 
