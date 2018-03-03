@@ -222,6 +222,8 @@ https://bugmagnet.org/
 
 [When Should a Test Be Automated?](https://www.oio.de/public/softwaretest/When-Should-A-Test-Be-Automated.pdf) by Brian Marick
 
+[Become a Minitry of Testing author](https://www.ministryoftesting.com/handbook/become-mot-author/)
+
 #### Unit tests 
 http://xunitpatterns.com/
 
