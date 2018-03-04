@@ -224,6 +224,11 @@ https://bugmagnet.org/
 
 [Become a Minitry of Testing author](https://www.ministryoftesting.com/handbook/become-mot-author/)
 
+### Test types
+[Characterization test](https://en.wikipedia.org/wiki/Characterization_test) - to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior against unintended changes.
+
+[Approval test](http://approvaltests.com/)
+
 #### Unit tests 
 http://xunitpatterns.com/
 
