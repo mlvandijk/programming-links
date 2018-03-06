@@ -365,6 +365,8 @@ https://www.linkedin.com/pulse/getting-started-public-speaking-kristine-howard/
 
 [Carbon](https://carbon.now.sh) - to add pretty code to your presentation
 
+https://thefriendlytester.co.uk/2016/02/a-four-week-approach-to-creating.html
+
 ### History
 
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
