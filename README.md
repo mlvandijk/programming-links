@@ -367,6 +367,10 @@ https://www.linkedin.com/pulse/getting-started-public-speaking-kristine-howard/
 
 https://thefriendlytester.co.uk/2016/02/a-four-week-approach-to-creating.html
 
+### Handy
+
+[JsonLint](https://jsonlint.com/) - validate json
+
 ### History
 
 http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
