@@ -229,6 +229,9 @@ https://bugmagnet.org/
 
 [Approval test](http://approvaltests.com/)
 
+#### Test / quality tools
+https://javapapers.com/java/java-micro-benchmark-with-jmh/ - Benchmark is the process of recording the performance of a system. (Macro) benchmarks are done between different platforms to compare the efficiency between them. Micro benchmarks are done within the same platform for a small snippet of code.
+
 #### Unit tests 
 http://xunitpatterns.com/
 
