@@ -208,6 +208,8 @@ https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
 ### Testing & Test Automation
 
+[Automation in Testing](http://automationintesting.com/onlinecourses/) - Free courses
+
 http://rcpaterson.co.uk/blog/test/dont-shift-left-expand-outwards-and-accelerate-failure/
 
 http://www.benrady.com/2016/11/testing-with-fire.html
