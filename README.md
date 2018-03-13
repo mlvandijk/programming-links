@@ -208,6 +208,10 @@ https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
 ### Testing & Test Automation
 
+[Test Developers Aren’t Testers](http://simplythetest.tumblr.com/post/169623787610/test-developers-arent-testers)
+
+[Test Developers Aren’t Testers, Follow-Up](http://simplythetest.tumblr.com/post/171133687210/test-developers-arent-testers-follow-up)
+
 [Automation in Testing](http://automationintesting.com/onlinecourses/) - Free courses
 
 http://rcpaterson.co.uk/blog/test/dont-shift-left-expand-outwards-and-accelerate-failure/
@@ -224,7 +228,7 @@ https://bugmagnet.org/
 
 [When Should a Test Be Automated?](https://www.oio.de/public/softwaretest/When-Should-A-Test-Be-Automated.pdf) by Brian Marick
 
-[Become a Minitry of Testing author](https://www.ministryoftesting.com/handbook/become-mot-author/)
+[Become a Ministry of Testing author](https://www.ministryoftesting.com/handbook/become-mot-author/)
 
 ### Test types
 [Characterization test](https://en.wikipedia.org/wiki/Characterization_test) - to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior against unintended changes.
