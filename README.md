@@ -236,6 +236,10 @@ https://bugmagnet.org/
 
 [Become a Ministry of Testing author](https://www.ministryoftesting.com/handbook/become-mot-author/)
 
+[Bug Bash at Saucelabs](https://saucelabs.com/blog/testing-from-a-different-point-of-view)
+
+[Bug Bash as Songkick](https://devblog.songkick.com/songkick-bug-bash-2018-30846ecf9c33)
+
 ### Test types
 [Characterization test](https://en.wikipedia.org/wiki/Characterization_test) - to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior against unintended changes.
 
