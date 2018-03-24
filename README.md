@@ -426,6 +426,8 @@ https://saijogeorge.com/css-puns/wife/
 
 https://dayssincelastjavascriptframework.com/
 
+http://yangshun.im/commitbait/
+
 # Other
 Slides for the geek girl carrots java meetup:
 
