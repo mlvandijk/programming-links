@@ -167,6 +167,10 @@ https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
 
 https://blog.golang.org/examples
 
+[Go - the good, the bad, the ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)
+
+[Amazing artwork by Ashley McNamara](https://github.com/ashleymcnamara/gophers)
+
 ### Git
 Git documentation: https://git-scm.com/doc
 
@@ -345,10 +349,6 @@ http://play.typeracer.com/ - improve typing speed
 http://www.thinkcode.se/blog
 
 https://blog.jetbrains.com/idea/
-
-https://www.joelonsoftware.com/
-
-https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 http://llewellynfalco.blogspot.nl/
 
