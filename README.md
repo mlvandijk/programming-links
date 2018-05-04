@@ -291,6 +291,16 @@ http://www.martinfowler.com/bliki/TestDouble.html
 
 http://hadihariri.com/2016/10/04/Mocking-Kotlin-With-Mockito/
 
+#### Contract testing
+
+[Consumer-Driven Contracts: A Service Evolution Pattern](https://www.martinfowler.com/articles/consumerDrivenContracts.html)
+
+https://www.thoughtworks.com/radar/techniques/consumer-driven-contract-testing
+
+[Getting started with Contract testing](http://blog.thecodewhisperer.com/permalink/getting-started-with-contract-tests)
+
+[Spring Cloud Contract Testing blog](https://specto.io/blog/2016/11/16/spring-cloud-contract/)
+
 #### Cucumber
 
 https://docs.cucumber.io - Cucumber for BDD test automation
