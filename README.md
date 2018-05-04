@@ -115,6 +115,8 @@ http://alistair.cockburn.us/Hexagonal+architecture
 
 https://refactoring.guru/
 
+https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf
+
 ### Java
 Getting started:
 * https://www.thenewboston.com/videos.php?cat=31 - Java beginners (89 videos of under 10 minutes each)
@@ -170,6 +172,10 @@ https://blog.golang.org/examples
 [Go - the good, the bad, the ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)
 
 [Amazing artwork by Ashley McNamara](https://github.com/ashleymcnamara/gophers)
+
+## Angular
+
+https://angular.io/docs
 
 ### Git
 Git documentation: https://git-scm.com/doc
