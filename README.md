@@ -299,7 +299,11 @@ https://www.thoughtworks.com/radar/techniques/consumer-driven-contract-testing
 
 [Getting started with Contract testing](http://blog.thecodewhisperer.com/permalink/getting-started-with-contract-tests)
 
-[Spring Cloud Contract Testing blog](https://specto.io/blog/2016/11/16/spring-cloud-contract/)
+[Blog about Spring Cloud Contract Testing blog](https://specto.io/blog/2016/11/16/spring-cloud-contract/)
+
+[Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/)
+
+[Spring Cloud Contract Testing blog](https://spring.io/blog/2018/02/13/spring-cloud-contract-in-a-polyglot-world)
 
 #### Cucumber
 
