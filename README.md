@@ -156,7 +156,7 @@ https://www.kotlin.nl/
 
 https://blog.philipphauer.de/idiomatic-kotlin-best-practices/
 
-[Kotlin in Action](http://sd.blackball.lv/library/Kotlin_in_Action_(2017).pdf)
+Kotlin in Action (book)
 
 ### Scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
