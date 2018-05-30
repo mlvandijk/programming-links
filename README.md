@@ -67,7 +67,7 @@ https://www.codetriage.com/
 
 http://up-for-grabs.net/#/
 
-### Clean code & craftsmanship
+### Clean code / Code smells / Refactoring
 
 https://cleancoders.com/videos/clean-code
 
@@ -142,6 +142,8 @@ OCA/OCP exam & exam prep:
 Java 9:
 
 https://blog.knoldus.com/2017/07/26/did-someone-say-java-9/
+
+String functions: http://string-functions.com/
 
 Various: 
 
