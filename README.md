@@ -77,6 +77,10 @@ https://blog.jetbrains.com/idea/2017/08/code-smells-mutation/
 
 https://martinfowler.com/bliki/CodeSmell.html
 
+https://refactoring.guru/smells/primitive-obsession
+
+http://courses.cs.vt.edu/~cs3114/Fall10/Notes/D01.IdentifyingClasses.pdf
+
 ### TDD
 https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
 
