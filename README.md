@@ -353,6 +353,10 @@ How to create a Minimal, Complete, and Verifiable example: https://stackoverflow
 
 https://www.datadoghq.com/blog/100x-faster-postgres-performance-by-changing-1-line/
 
+### Bash
+
+https://natelandau.com/my-mac-osx-bash_profile/
+
 ### Programming
 
 https://tylermcginnis.com/imperative-vs-declarative-programming/
