@@ -67,20 +67,6 @@ https://www.codetriage.com/
 
 http://up-for-grabs.net/#/
 
-### Clean code / Code smells / Refactoring
-
-https://cleancoders.com/videos/clean-code
-
-https://pragprog.com/book/tpp/the-pragmatic-programmer
-
-https://blog.jetbrains.com/idea/2017/08/code-smells-mutation/
-
-https://martinfowler.com/bliki/CodeSmell.html
-
-https://refactoring.guru/smells/primitive-obsession
-
-http://courses.cs.vt.edu/~cs3114/Fall10/Notes/D01.IdentifyingClasses.pdf
-
 ### TDD
 https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
 
@@ -115,11 +101,25 @@ https://spin.atomicobject.com/2013/02/23/ports-adapters-software-architecture/
 
 http://alistair.cockburn.us/Hexagonal+architecture
 
+### Code review
+
+https://techbeacon.com/10-commandments-navigating-code-reviews
+
 ### Refactoring
+
+https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf
+
+https://pragprog.com/book/tpp/the-pragmatic-programmer
+
+https://blog.jetbrains.com/idea/2017/08/code-smells-mutation/
+
+https://martinfowler.com/bliki/CodeSmell.html
 
 https://refactoring.guru/
 
-https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf
+https://refactoring.guru/smells/primitive-obsession
+
+http://courses.cs.vt.edu/~cs3114/Fall10/Notes/D01.IdentifyingClasses.pdf
 
 ### Java
 Getting started:
