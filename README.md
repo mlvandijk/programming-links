@@ -95,6 +95,8 @@ https://www.youtube.com/watch?v=8cy64qkgTyI
 
 http://wiki.c2.com/?DesignPatternsBook
 
+https://en.wikipedia.org/wiki/Null_object_pattern
+
 #### Ports and Adapters / Hexagonal architecture
 
 https://spin.atomicobject.com/2013/02/23/ports-adapters-software-architecture/
