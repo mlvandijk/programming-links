@@ -464,6 +464,8 @@ https://dayssincelastjavascriptframework.com/
 
 http://yangshun.im/commitbait/
 
+https://www.stilldrinking.org/proposal-for-new-rest-methods
+
 # Other
 Slides for the geek girl carrots java meetup:
 
