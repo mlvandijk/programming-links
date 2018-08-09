@@ -117,6 +117,8 @@ https://blog.jetbrains.com/idea/2017/08/code-smells-mutation/
 
 https://martinfowler.com/bliki/CodeSmell.html
 
+https://martinfowler.com/articles/preparatory-refactoring-example.html
+
 https://refactoring.guru/
 
 https://refactoring.guru/smells/primitive-obsession
