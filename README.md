@@ -1,6 +1,8 @@
 ## programming-links
 Things I want to save and/or share
 
+https://12factor.net/
+
 ### General
 http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
