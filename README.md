@@ -442,6 +442,8 @@ https://www.vox.com/2015/5/30/8689481/margaret-hamilton-apollo-software
 
 www.xkcd.com
 
+https://www.monkeyuser.com/
+
 https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg
 
 https://9gag.com/gag/anXEbe0/if-programming-languages-were-weapons?fref=gc&dti=1420472394666043
