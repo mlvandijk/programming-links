@@ -333,6 +333,8 @@ https://www.thoughtworks.com/radar/techniques/consumer-driven-contract-testing
 
 [Spring Cloud Contract Testing blog](https://spring.io/blog/2018/02/13/spring-cloud-contract-in-a-polyglot-world)
 
+[Reasons for consumer driven contracts](https://reflectoring.io/7-reasons-for-consumer-driven-contracts/)
+
 #### Cucumber
 
 https://docs.cucumber.io - Cucumber for BDD test automation
