@@ -74,6 +74,8 @@ https://www.slideshare.net/matthiasnoback/tdd-a-reminder-of-the-principles
 
 https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Maven project to run unit tests 
 
+http://codemanship.co.uk/parlezuml/blog/?postid=987 Classic vs London school of TDD
+
 ### Mob programming
 https://www.agileconnection.com/article/getting-started-mob-programming
 
