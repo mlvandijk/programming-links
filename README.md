@@ -268,6 +268,8 @@ https://bugmagnet.org/
 
 [Bug Bash as Songkick](https://devblog.songkick.com/songkick-bug-bash-2018-30846ecf9c33)
 
+[Test automation patterns](https://testautomationpatterns.org/wiki/index.php/Main_Page)
+
 ### Test types
 [Characterization test](https://en.wikipedia.org/wiki/Characterization_test) - to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior against unintended changes.
 
