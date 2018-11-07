@@ -311,9 +311,17 @@ http://www.martinfowler.com/bliki/TestDouble.html
 
 http://hadihariri.com/2016/10/04/Mocking-Kotlin-With-Mockito/
 
+### API testing
+
+[Swagger test templates](https://www.npmjs.com/package/swagger-test-templates) **Note:** javascript tool
+
+[Dredd](https://github.com/apiaryio/dredd)
+
 #### Contract testing
 
-[Consumer-Driven Contracts: A Service Evolution Pattern](https://www.martinfowler.com/articles/consumerDrivenContracts.html)
+[Contract test(Martin Fowler)](https://martinfowler.com/bliki/ContractTest.html)
+
+[Consumer-Driven Contracts: A Service Evolution Pattern (Martin Fowler)](https://www.martinfowler.com/articles/consumerDrivenContracts.html)
 
 https://www.thoughtworks.com/radar/techniques/consumer-driven-contract-testing
 
