@@ -157,6 +157,8 @@ https://blog.knoldus.com/2017/07/26/did-someone-say-java-9/
 
 String functions: http://string-functions.com/
 
+Regex: https://docs.oracle.com/javase/8/docs/api/java/util/regex/Matcher.html
+
 Various: 
 
 https://dzone.com/articles/optional-method-parameters
