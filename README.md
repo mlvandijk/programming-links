@@ -492,6 +492,10 @@ http://yangshun.im/commitbait/
 
 https://www.stilldrinking.org/proposal-for-new-rest-methods
 
+http://isstagingdown.com/
+
+Passive Aggressive Annotation Framework (PAAF): https://github.com/nvdh/paaf
+
 # Other
 Slides for the geek girl carrots java meetup:
 
