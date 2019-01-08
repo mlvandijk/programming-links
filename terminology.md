@@ -8,6 +8,8 @@ and the compiler can validate that the methods and fields you're trying to acces
 **Dynamically typed programming language** - let you define variables and functions that can store or return data of any type 
 and resolve the method and field reference at runtime.
 
+**Compiled language** - needs to be compiled before running it.
+
 **Type inference** - the ability of the compiler to determine types from context.
 
 **Key concepts of functional programming:**
