@@ -18,3 +18,10 @@ pass them as parameters, or return them from other functions.
 2. *Immutability* - Using immutable objects, guarantess that their state can't change after creation.
 3. *No side effects* - Using pure functions that return the same result given the same inputs and don't modify the state of 
 other objects or interact with the outside world.
+
+**Expression** - has a value, which can be used as part of another expression.
+**Statement** - is always a top-level element in it's enclosing block doesn't have it's own value.
+In Java, all control structures are statements.
+In Kotlin, most control structures, except for the loops (`for`, `do`, and `do/while`) are expressions.
+
+Assignments are expressions in Java, and become statements in Kotlin.
