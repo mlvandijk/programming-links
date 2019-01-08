@@ -9,3 +9,10 @@ and the compiler can validate that the methods and fields you're trying to acces
 and resolve the method and field reference at runtime.
 
 **Type inference** - the ability of the compiler to determine types from context.
+
+**Key concepts of functional programming:**
+1. *First-class functions* - Using functions (pieces of behavior) as values; you can store them in variables, 
+pass them as parameters, or return them from other functions.
+2. *Immutability* - Using immutable objects, guarantess that their state can't change after creation.
+3. *No side effects* - Using pure functions that return the same result given the same inputs and don't modify the state of 
+other objects or interact with the outside world.
