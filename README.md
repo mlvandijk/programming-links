@@ -174,6 +174,8 @@ https://blog.philipphauer.de/idiomatic-kotlin-best-practices/
 
 Kotlin in Action (book)
 
+[Using Maven to compile Kotlin and Java resources](https://kotlinlang.org/docs/reference/using-maven.html#compiling-kotlin-and-java-sources)
+
 ### Scala
 http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 
