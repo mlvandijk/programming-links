@@ -373,6 +373,10 @@ http://agileforall.com/wp-content/uploads/2011/08/Cucumber-Regular-Expressions-C
 
 http://www.thinkcode.se/blog/2016/06/22/cucumber-antipatterns
 
+### Cloud
+
+https://github.com/googleapis/google-cloud-java/blob/master/TESTING.md#testing-code-that-uses-storage
+
 ### Reproduce issues
 
 How to create a Minimal, Complete, and Verifiable example: https://stackoverflow.com/help/mcve
