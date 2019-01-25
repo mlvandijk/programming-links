@@ -498,6 +498,10 @@ http://isstagingdown.com/
 
 Passive Aggressive Annotation Framework (PAAF): https://github.com/nvdh/paaf
 
+https://httpstatusdogs.com/
+
+https://http.cat/
+
 # Other
 Slides for the geek girl carrots java meetup:
 
