@@ -244,6 +244,16 @@ https://graphql.org/learn/
 
 https://www.w3schools.com/cssref/css3_pr_word-break.asp
 
+### Testing
+
+Get some ideas here:
+
+https://github.com/kdeldycke/awesome-falsehood/blob/master/README.md
+
+https://medium.com/@ezagroba/have-i-tried-enough-weird-stuff-7ed4105ae994
+
+
+
 ### Testing & Test Automation
 
 [Test Developers Aren’t Testers](http://simplythetest.tumblr.com/post/169623787610/test-developers-arent-testers)
