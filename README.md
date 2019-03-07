@@ -428,11 +428,11 @@ http://www.thinkcode.se/blog
 
 https://blog.jetbrains.com/idea/
 
-http://llewellynfalco.blogspot.nl/
-
 [Ministry of Testing - blog feed](https://www.ministryoftesting.com/testing-feeds/)
 
 http://visible-quality.blogspot.nl
+
+[Julia Evans](https://jvns.ca/)
 
 ### Conferences
 
