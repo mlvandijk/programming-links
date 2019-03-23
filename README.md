@@ -284,6 +284,8 @@ https://bugmagnet.org/
 
 [Test automation patterns](https://testautomationpatterns.org/wiki/index.php/Main_Page)
 
+[Regression testing heuristic](http://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/)
+
 ### Test types
 [Characterization test](https://en.wikipedia.org/wiki/Characterization_test) - to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior against unintended changes.
 
