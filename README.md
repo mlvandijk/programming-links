@@ -163,6 +163,8 @@ Various:
 
 https://dzone.com/articles/optional-method-parameters
 
+[classpath](http://kevinboone.net/classpath.html)
+
 ### Kotlin
 https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
 
