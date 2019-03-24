@@ -323,6 +323,8 @@ http://www.martinfowler.com/bliki/TestDouble.html
 
 [Mockito](site.mockito.org/)
 
+https://www.baeldung.com/java-spring-mockito-mock-mockbean
+
 [MockServer](http://www.mock-server.com/)
 
 [WireMock](http://wiremock.org/)
