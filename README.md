@@ -222,6 +222,8 @@ http://www.ndpsoftware.com/git-cheatsheet.html
 
 https://jwiegley.github.io/git-from-the-bottom-up/
 
+https://git-rebase.io/
+
 ### Spring
 
 https://spring.io/guides
