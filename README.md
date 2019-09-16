@@ -243,6 +243,16 @@ https://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.htm
 ### GraphQL
 https://graphql.org/learn/
 
+https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/
+
+https://www.graphql-java-kickstart.com/tools/
+
+https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55
+
+https://blog.apollographql.com/optimizing-your-graphql-request-waterfalls-7c3f3360b051
+
+https://blog.apollographql.com/batching-client-graphql-queries-a685f5bcd41b
+
 
 ### Front end
 
