@@ -498,6 +498,8 @@ https://www.vox.com/2015/5/30/8689481/margaret-hamilton-apollo-software
 
 www.xkcd.com
 
+https://relevantxkcd.appspot.com/
+
 https://www.monkeyuser.com/
 
 https://assets.toggl.com/images/toggl-how-to-save-the-princess-in-8-programming-languages.jpg
