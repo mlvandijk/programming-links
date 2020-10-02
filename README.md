@@ -101,6 +101,10 @@ http://wiki.c2.com/?DesignPatternsBook
 
 https://en.wikipedia.org/wiki/Null_object_pattern
 
+https://en.wikipedia.org/wiki/Decorator_pattern
+
+https://en.wikipedia.org/wiki/Semaphore_(programming)
+
 #### Ports and Adapters / Hexagonal architecture
 
 https://spin.atomicobject.com/2013/02/23/ports-adapters-software-architecture/
