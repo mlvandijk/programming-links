@@ -105,6 +105,8 @@ https://en.wikipedia.org/wiki/Decorator_pattern
 
 https://en.wikipedia.org/wiki/Semaphore_(programming)
 
+[Baackends for Frontends](https://samnewman.io/patterns/architectural/bff/)
+
 #### Ports and Adapters / Hexagonal architecture
 
 https://spin.atomicobject.com/2013/02/23/ports-adapters-software-architecture/
