@@ -3,6 +3,8 @@ Things I want to save and/or share
 
 https://12factor.net/
 
+[Charity Majors - WTF IS OPERATIONS? #SERVERLESS](https://charity.wtf/2016/05/31/wtf-is-operations-serverless/)
+
 ### General
 http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
