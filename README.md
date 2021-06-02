@@ -7,6 +7,8 @@ https://12factor.net/
 
 [Charity Majors - OPERATIONAL BEST PRACTICES #SERVERLESS](https://charity.wtf/2016/05/31/operational-best-practices-serverless/)
 
+https://cloud.google.com/functions/docs/
+
 ### General
 http://www.geeksforgeeks.org/ - programming languages, algorithms, tutorials
 
