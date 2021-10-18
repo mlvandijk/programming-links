@@ -20,8 +20,8 @@ This means that it becomes possible to express static (e.g. arrays) or dynamic (
 
 The **observer pattern** is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, 
 and notifies them automatically of any state changes, usually by calling one of their methods.
-- https://en.wikipedia.org/wiki/Observer_pattern
+— https://en.wikipedia.org/wiki/Observer_pattern
 
 In object-oriented programming, the **iterator pattern** is a design pattern in which an iterator is used to traverse a container and access the container's elements. 
 The iterator pattern decouples algorithms from containers; in some cases, algorithms are necessarily container-specific and thus cannot be decoupled.
-- https://en.wikipedia.org/wiki/Iterator_pattern
+— https://en.wikipedia.org/wiki/Iterator_pattern
