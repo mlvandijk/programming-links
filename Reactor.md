@@ -51,6 +51,13 @@ Propagating signals upstream is also used to implement **backpressure**; a feedb
 The Rx family of reactive libraries distinguishes two broad categories of reactive sequences: **hot** and **cold**. This distinction mainly has to do with how the reactive stream reacts to subscribers:
 * A **Cold** sequence starts anew for each Subscriber, including at the source of data. For example, if the source wraps an HTTP call, a new HTTP request is made for each subscription.
 * A **Hot** sequence does not start from scratch for each Subscriber. Rather, late subscribers receive signals emitted after they subscribed. 
+
+## Reactor Core Features  
+A **Flux** object represents a reactive sequence of 0..N items, while a **Mono** object represents a single-value-or-empty (0..1) result. 
+  
+A **Flux<T>** is a standard **Publisher<T>** that represents an asynchronous sequence of 0 to N emitted items, optionally terminated by either a completion signal or an error. As in the Reactive Streams spec, these three types of signal translate to calls to a downstream Subscriber’s **onNext**, **onComplete**, and **onError** methods.  
+  
+A **Mono<T>** is a specialized **Publisher<T>** that emits at most one item via the onNext signal then terminates with an **onComplete** signal (successful Mono, with or without value), or only emits a single **onError** signal (failed Mono).  
   
 ## Patterns
 
