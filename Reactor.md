@@ -8,6 +8,7 @@ https://projectreactor.io/docs/core/release/reference/#getting-started-introduci
 
 
 https://projectreactor.io/docs/core/release/reference/#intro-reactive
+
 **Reactive programming** is an asynchronous programming paradigm concerned with data streams and the propagation of change. 
 This means that it becomes possible to express static (e.g. arrays) or dynamic (e.g. event emitters) data streams with ease via the employed programming language(s).
 — https://en.wikipedia.org/wiki/Reactive_programming
@@ -16,6 +17,7 @@ This means that it becomes possible to express static (e.g. arrays) or dynamic (
 
 
 ## Patterns
+
 The **observer pattern** is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, 
 and notifies them automatically of any state changes, usually by calling one of their methods.
 - https://en.wikipedia.org/wiki/Observer_pattern
