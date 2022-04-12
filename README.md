@@ -82,7 +82,7 @@ https://www.youtube.com/watch?v=ytjL2X2Tn3U&feature=youtu.be - Setting up a Mave
 
 http://codemanship.co.uk/parlezuml/blog/?postid=987 Classic vs London school of TDD
 
-### Mob programming
+### Mob programming / Ensemble programming 
 https://www.agileconnection.com/article/getting-started-mob-programming
 
 https://tobeagile.com/2017/01/11/strong-style-pairing/
@@ -196,6 +196,8 @@ http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
 http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
 
 https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
+
+https://www.rea-group.com/about-us/news-and-insights/blog/java-to-scala-cheatsheet/
 
 ### Go
 
