@@ -177,12 +177,32 @@ https://dzone.com/articles/optional-method-parameters
 
 [classpath](http://kevinboone.net/classpath.html)
 
+[NLJUG](https://nljug.org/)
+
+[Inside Java](https://inside.java/)
+
+[Inside Java podcast](https://inside.java/podcast/)
+
+[JetBrains IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/)
+
+[Baeldung](https://www.baeldung.com/)
+
+[DZone: Java](https://dzone.com/java-jdk-development-tutorials-tools-news)
+
+[Foojay Today](https://foojay.io/today/)
+
+[Foojay - Overview of all JVM command line arguments - Java 11](https://foojay.io/command-line-arguments/openjdk-11/?tab=alloptions)
+
+[InfoQ](https://www.infoq.com/)
+
 ### Kotlin
 https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
 
 https://kotlinlang.org/
 
 https://www.kotlin.nl/
+
+[JetBrains Kotlin Blog](https://blog.jetbrains.com/kotlin/)
 
 https://blog.philipphauer.de/idiomatic-kotlin-best-practices/
 
@@ -250,6 +270,8 @@ https://bolcom.github.io/java-spring-basics/
 
 https://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html
 
+[Spring Blog](https://spring.io/blog)
+
 ### Maven 
 
 [Introduction to build profiles](http://maven.apache.org/guides/introduction/introduction-to-profiles.html)
@@ -266,6 +288,11 @@ https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbce
 https://blog.apollographql.com/optimizing-your-graphql-request-waterfalls-7c3f3360b051
 
 https://blog.apollographql.com/batching-client-graphql-queries-a685f5bcd41b
+
+
+### Security 
+
+[Oracle Security Alerts](https://www.oracle.com/security-alerts/)
 
 
 ### Front end
