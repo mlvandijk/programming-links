@@ -195,6 +195,8 @@ https://dzone.com/articles/optional-method-parameters
 
 [InfoQ](https://www.infoq.com/)
 
+[OpenJDK](https://openjdk.java.net/)
+
 ### Kotlin
 https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
 
