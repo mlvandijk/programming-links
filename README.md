@@ -343,6 +343,10 @@ https://bugmagnet.org/
 
 [Regression testing heuristic](http://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/)
 
+[Doing terrible things to your code](https://blog.codinghorror.com/doing-terrible-things-to-your-code/)
+
+[Have I tried enough weird stuff?](https://elizabethzagroba.com/posts/2019/2019-01-25_have-i-tried-enough-weird-stuff/)
+
 ### Test types
 [Characterization test](https://en.wikipedia.org/wiki/Characterization_test) - to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior against unintended changes.
 
